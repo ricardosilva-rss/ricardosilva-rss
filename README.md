@@ -5,7 +5,7 @@
 
 - My latest work was [MEEplay](https://www.meeplay.xyz/)
 
-- 📫 How to reach me **ricardosilva.rss@gmail.com**
+- You can reach me by email using **ricardosilva.rss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
