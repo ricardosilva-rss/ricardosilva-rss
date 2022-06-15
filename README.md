@@ -1,4 +1,4 @@
-<h1 align="center">Hey there! My name is Ricardo</h1>
+<h1 align="center">Hey there! My name is Ricardo!</h1>
 <h3 align="center">I'm an aspiring Full Stack Developer from Lisbon, Portugal</h3>
 
 - I just completed Le Wagon's **Web Development Course**
