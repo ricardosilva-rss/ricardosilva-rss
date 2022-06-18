@@ -1,11 +1,11 @@
 <h1 align="center">Yellow! My name is Ricardo!</h1>
 <h3 align="center">I'm an aspiring Full-Stack Developer from Lisbon, Portugal</h3>
 
-- I just completed Le Wagon's **Web Development Course**
+I've just completed Le Wagon's **Web Development Course**
 
-- My latest work was [MEEplay](https://www.meeplay.xyz/)
+My latest work was [MEEplay](https://www.meeplay.xyz/)
 
-- You can reach me by email using **ricardosilva.rss@gmail.com**
+You can reach me by email using **ricardosilva.rss@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
