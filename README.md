@@ -5,7 +5,11 @@ I've just completed Le Wagon's **Web Development Course**
 
 My latest work was [MEEplay](https://www.meeplay.xyz/)
 
-You can reach me by email using **ricardosilva.rss@gmail.com**
+If you want to reach me, use one of this:
+  email: **ricardosilva.rss@gmail.com**
+  linkedin: **[ricardosilva-rss](https://www.linkedin.com/in/ricardosilva-rss/)**
+  slack: **ricardosilva-rss**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
